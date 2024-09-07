@@ -1,0 +1,60 @@
+h1 
+{
+   color: black;
+   text-align: center;
+   font-style: inherit; 
+   padding-bottom: 30px;
+   background-color:white;
+}
+h2
+{
+    color: black;
+    text-align: center;
+    font-style: inherit; 
+    font-weight: bolder;
+    padding-bottom: 20px;  
+    background: white; 
+}
+p
+{
+    padding-left: 80px;
+    font-weight: bold;
+    background-color: white;
+    word-spacing: 1200px;
+    font-size: 100%;
+    
+    
+}
+ul li
+{
+    list-style-type: none;
+    padding-top: 20px;
+    font-style: initial;
+    word-spacing: 30%px;
+    
+    
+}
+div
+{
+    font-style: initial;
+    font-weight: bold;
+    float: right;
+    background-color: white;
+}
+body
+{
+    background-color: black;
+}
+h3
+{
+    text-align: center;
+}
+form
+{
+    padding-top: 30px ;
+    color: white;
+}
+ul li img
+{
+    background-color: azure;
+}
